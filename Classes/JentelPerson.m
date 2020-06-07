@@ -6,9 +6,9 @@
 //  Copyright © 2020 Jentle. All rights reserved.
 //
 
-#import "Person.h"
+#import "JentelPerson.h"
 
-@implementation Person
+@implementation JentelPerson
 
 + (void)myPerson {
     

@@ -1,5 +1,5 @@
 //
-//  Person.h
+//  JentelPerson.h
 //  TestSpecDemo
 //
 //  Created by Jentle on 2020/6/8.
@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface Person : NSObject
+@interface JentelPerson : NSObject
 
 + (void)myPerson;
 
