@@ -15,16 +15,16 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "JentelPerson"
+  spec.name         = "JentlePerson"
   spec.version      = "0.0.1"
-  spec.summary      = "JentelPerson"
+  spec.summary      = "JentlePerson"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "测试testPerson远程私有库"
+  spec.description  = "测试JentlePerson远程私有库"
 
   spec.homepage     = "https://github.com/Jentlezhi/TestSpec"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"

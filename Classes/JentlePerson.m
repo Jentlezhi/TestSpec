@@ -1,5 +1,5 @@
 //
-//  Person.m
+//  JentlePerson.m
 //  TestSpecDemo
 //
 //  Created by Jentle on 2020/6/8.
@@ -8,7 +8,7 @@
 
 #import "JentelPerson.h"
 
-@implementation JentelPerson
+@implementation JentlePerson
 
 + (void)myPerson {
     
