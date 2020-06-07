@@ -12,7 +12,7 @@
 
 + (void)myPerson {
     
-    NSLog(@"%@",__func__);
+    NSLog(@"%s",__func__);
 }
 
 @end
