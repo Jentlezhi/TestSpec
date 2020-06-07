@@ -6,7 +6,7 @@
 //  Copyright © 2020 Jentle. All rights reserved.
 //
 
-#import "JentelPerson.h"
+#import "JentlePerson.h"
 
 @implementation JentlePerson
 
